@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 *.so
 
+data/
+
 # Virtual environments
 venv/
 env/
@@ -15,3 +17,4 @@ venv.bak/
 # Environment variables and secrets
 .env
 .env.local
+
